@@ -6,7 +6,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ishan604&label=Profile%20views&color=0e75b6&style=flat" alt="ishan604" /> </p>
 <h3 align = "center">These days I am following</h3>
-<h5 align = "center">Level 5 Pearon BTEC HND in computing (Software Engineering)</h5>
+<h5 align = "center">BEng(Hons) Software Engineering at London Metropolitan University</h5>
 <hr>
 <img align="right" height="200" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
